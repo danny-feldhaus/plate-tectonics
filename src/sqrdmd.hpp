@@ -26,7 +26,7 @@
 #define SQRDMD_H
 
 /**
- * @brief Scales the values of the map between [0, 1[.
+ * @brief Scales the values of the map between [0, 1].
  *
  *  @param	map Array containing height data.
  *  @param	size Number of elements in the map.
